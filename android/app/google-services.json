@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494806457067",
+    "project_id": "chat-d14ab",
+    "storage_bucket": "chat-d14ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494806457067:android:881ce091fef8226d813cae",
+        "android_client_info": {
+          "package_name": "co.palash.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494806457067-r9851qhm4tlge5dgmnmcv76p7ibscb2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtBxGCvIA-vB8gbHcq8Ej2F1gHuVWZM-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494806457067-r9851qhm4tlge5dgmnmcv76p7ibscb2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
